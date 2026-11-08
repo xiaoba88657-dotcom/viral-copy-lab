@@ -1,6 +1,11 @@
 # 爆款研究实验室 · Viral Copy Lab
 
+[![下载量](https://img.shields.io/github/downloads/xiaoba88657-dotcom/viral-copy-lab/total?style=flat-square&label=Downloads)](https://github.com/xiaoba88657-dotcom/viral-copy-lab/releases)
+[![Star 数量](https://img.shields.io/github/stars/xiaoba88657-dotcom/viral-copy-lab?style=flat-square&label=Stars)](https://github.com/xiaoba88657-dotcom/viral-copy-lab/stargazers)
+
 用于电商短视频的样本拆解、产品脚本生成和投放复盘的中文 AI Skill。技术名称为 `viral-copy-lab`，原技能界面名称为“爆款文案实验室”。
+
+下载量统计所有正式发布附件的累计下载次数，不包含普通 Code → Download ZIP、Git 克隆或实际安装人数；标识可能有缓存延迟。
 
 ## 能做什么
 
@@ -11,7 +16,7 @@
 
 ## 安装到 Codex
 
-下载本仓库 ZIP 并解压，将文件夹命名为 `viral-copy-lab`，放到项目中的 `.agents/skills/` 或个人的 `~/.agents/skills/` 下。安装后应存在 `viral-copy-lab/SKILL.md`，并完整保留同级的 `references/`、`scripts/`、`assets/` 和 `agents/` 目录。已有同名技能时，先备份并比较内容，避免直接覆盖。
+推荐下载 [v1.0 安装包：viral-copy-lab-v1.0.zip](https://github.com/xiaoba88657-dotcom/viral-copy-lab/releases/download/v1.0/viral-copy-lab-v1.0.zip)，解压后得到 `viral-copy-lab` 文件夹，放到项目中的 `.agents/skills/` 或个人的 `~/.agents/skills/` 下。安装后应存在 `viral-copy-lab/SKILL.md`，并完整保留同级的 `references/`、`scripts/`、`assets/` 和 `agents/` 目录。已有同名技能时，先备份并比较内容，避免直接覆盖。
 
 也可在目标项目中运行（目标文件夹必须尚不存在）：
 
