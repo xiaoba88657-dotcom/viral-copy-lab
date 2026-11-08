@@ -1,0 +1,4 @@
+interface:
+  display_name: "爆款文案实验室"
+  short_description: "拆解视频爆款结构并沉淀到 Obsidian，生成产品专项脚本"
+  default_prompt: "使用 $viral-copy-lab 分析 Obsidian 待拆解文档中的视频链接，沉淀框架并生成产品专项脚本。"
